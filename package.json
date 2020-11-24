@@ -1,10 +1,11 @@
 {
-  "name": "react",
+  "name": "todomatic",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "nanoid": "3.1.18",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-scripts": "3.4.3"
